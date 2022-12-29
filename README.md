@@ -1,5 +1,7 @@
 # Oi, mundo! Meu nome é Jacqueline Pruschinski 👋
 
+*English below*
+
 - 🌱 Estou aprendendo JavaScript e Node.js 
 - 📫 Você pode falar comigo no e-mail jacqueline.pruschinski@gmail.com
 
@@ -16,6 +18,25 @@
 
 <a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="50"/></a>
 
+---
+
+## Hello, world! I'm Jacqueline Pruschinski 👋
+
+- 🌱 I'm currently learning JavaScript and Node.js 
+- 📫 You can reach me at jacqueline.pruschinski@gmail.com
+
+## My latest projects:
+
+1. **[LinkTree](https://link-tree-flax-tau.vercel.app/)**, which shows a few of my main projects and switches page theme between light and dark
+1. **[To-do list](https://exercicios-ten.vercel.app/js/toDo/toDo.html)**, which shows, searches, creates and deletes to-do items
+1. **[Feline quiz (in Portuguese)](https://exercicios-ten.vercel.app/js/quizKitty/quizKitty.html)**, which tests your knowledge of cats and then shows your final score
+1. **[Credit card widget](https://explorer-lab-ebon-two.vercel.app/)**, which identifies the issuer and then shows the rest of the information interactively
+1. **[Caesar's cypher](https://exercicios-ten.vercel.app/js/caesarCipher/caesarCipher.html)**, which encodes and decodes messages using one of the oldest cyphers in the world
+1. **[CPF validator](https://exercicios-ten.vercel.app/js/cpf/cpf.html)**, which validates Brazilian tax payer IDs
+
+## Let's keep in touch! 
+
+<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="50"/></a>
 
 <!--
 **zignini/zignini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
