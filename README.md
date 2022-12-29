@@ -14,7 +14,7 @@
 
 ## Vamos manter contato! 
 
-<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="150"/></a>
+<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="50"/></a>
 
 
 <!--
