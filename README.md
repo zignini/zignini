@@ -3,7 +3,7 @@
 *English below*
 
 - 🌱 Estou aprendendo JavaScript e Node.js 
-- 📫 Você pode falar comigo no e-mail jacqueline.pruschinski@gmail.com
+- 📫 Você pode falar comigo por e-mail no endereço jacqueline.pruschinski@gmail.com
 
 ## Meus últimos projetos:
 
