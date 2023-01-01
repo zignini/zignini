@@ -17,7 +17,7 @@
 
 ## Vamos manter contato! 
 
-<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="50"/></a>
+<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="30"/></a>
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## Let's keep in touch! 
 
-<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="50"/></a>
+<a href="https://www.linkedin.com/in/jacqueline-pruschinski/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="30"/></a>
 
 <!--
 **zignini/zignini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
