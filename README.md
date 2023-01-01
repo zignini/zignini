@@ -7,6 +7,7 @@
 
 ## Meus últimos projetos:
 
+1. **[Clima](https://clima-topaz-two.vercel.app/)**, que mostra o clima atual em qualquer cidade do mundo via API da AccuWeather
 1. **[LinkTree](https://link-tree-flax-tau.vercel.app/)**, que mostra meus principais projetos e alterna o tema da página entre dia e noite
 1. **[Lista de tarefas](https://exercicios-ten.vercel.app/js/toDo/toDo.html)**, para ver, buscar, criar e apagar itens de uma lista de tarefas
 1. **[Quiz felino](https://exercicios-ten.vercel.app/js/quizKitty/quizKitty.html)**, um teste que mostra seu conhecimento sobre gatos em uma pontuação no final
@@ -27,6 +28,7 @@
 
 ## My latest projects:
 
+1. **[Weather (in Portuguese)](https://clima-topaz-two.vercel.app/)**, which shows the current weather for any city in the world via AccuWeather API 
 1. **[LinkTree](https://link-tree-flax-tau.vercel.app/)**, which shows a few of my main projects and switches page theme between light and dark
 1. **[To-do list](https://exercicios-ten.vercel.app/js/toDo/toDo.html)**, which shows, searches, creates and deletes to-do items
 1. **[Feline quiz (in Portuguese)](https://exercicios-ten.vercel.app/js/quizKitty/quizKitty.html)**, which tests your knowledge of cats and then shows your final score
