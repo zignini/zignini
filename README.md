@@ -23,7 +23,7 @@
 
 ## Hello, world! I'm Jacqueline Pruschinski 👋
 
-- 🌱 I'm currently learning JavaScript and Node.js 
+- 🌱 I'm currently learning Java
 - 📫 You can reach me at jacqueline.pruschinski@gmail.com
 
 ## My latest projects:
