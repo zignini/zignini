@@ -2,7 +2,7 @@
 
 *English below*
 
-- 🌱 Estou aprendendo Java
+- 🌱 Estou aprendendo Java, depois de passar um tempo aprendendo JavaScript, HTML e CSS
 - 📫 Você pode falar comigo por e-mail no endereço jacqueline.pruschinski@gmail.com
 
 ## Meus últimos projetos:
@@ -23,7 +23,7 @@
 
 ## Hello, world! I'm Jacqueline Pruschinski 👋
 
-- 🌱 I'm currently learning Java
+- 🌱 I'm currently learning Java, after a while learning JavaScript, HTML and CSS
 - 📫 You can reach me at jacqueline.pruschinski@gmail.com
 
 ## My latest projects:
