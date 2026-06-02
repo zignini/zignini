@@ -4,6 +4,7 @@
 
 - 🌱 Estou aprendendo Java, depois de passar um tempo aprendendo JavaScript, HTML e CSS
 - 📫 Você pode falar comigo por e-mail no endereço jacqueline.pruschinski@gmail.com
+- 📦 Também tenho 10 anos de experiência em produto (como Product Owner e Product Manager)
 
 ## Meus últimos projetos:
 
@@ -26,6 +27,7 @@
 
 - 🌱 I'm currently learning Java, after a while learning JavaScript, HTML and CSS
 - 📫 You can reach me at jacqueline.pruschinski@gmail.com
+- 📦 I also have 10 years of experience working with product (as a Product Owner and as a Product Manager)
 
 ## My latest projects:
 
