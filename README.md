@@ -6,8 +6,8 @@ Sou uma desenvolvedora de software backend (**Java**), também com conhecimento 
 
 ## Meus últimos projetos:
 
-1. **[Xadrez no console](https://github.com/zignini/chess-system/tree/main)**, para jogar xadrez do conforto do seu console em Java
-1. **[Clima](https://clima-topaz-two.vercel.app/)**, que mostra o clima atual em qualquer cidade do mundo via API da OpenWeather
+1. **[Xadrez no console](https://github.com/zignini/chess-system)**, para jogar xadrez do conforto do seu console em Java
+1. **[Clima](https://github.com/zignini/clima)**, que mostra o clima atual em qualquer cidade do mundo via API da OpenWeather
 
 ## Vamos manter contato! 
 
@@ -23,8 +23,8 @@ I'm a backend software developer (**Java**), with knowledge in frontend (**JavaS
 
 ## My latest projects:
 
-1. **[Console chess](https://github.com/zignini/chess-system/tree/main)**, with which you can play chess from the comfort of your own Java console
-1. **[Weather (in Portuguese)](https://clima-topaz-two.vercel.app/)**, which shows the current weather for any city in the world via OpenWeather API 
+1. **[Console chess](https://github.com/zignini/chess-system)**, with which you can play chess from the comfort of your own Java console
+1. **[Weather (in Portuguese)](https://github.com/zignini/clima)**, which shows the current weather for any city in the world via OpenWeather API 
 
 ## Let's keep in touch! 
 
